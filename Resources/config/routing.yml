@@ -1,0 +1,3 @@
+oist_shib_user_provider_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: OISTShibUserProviderBundle:Default:index }
